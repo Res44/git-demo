@@ -21,5 +21,9 @@ hello baozhou!hello git!
 hello baozhou!hello git!
 hello baozhou!hello git!
 hello baozhou!hello git!
+<<<<<<< HEAD
 hello baozhou!hello git! master
+=======
+hello baozhou!hello git! hot-fix
+>>>>>>> hot-fix
 hello baozhou!hello git!
