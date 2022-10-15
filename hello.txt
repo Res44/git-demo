@@ -24,3 +24,4 @@ hello baozhou!hello git!
 hello baozhou!hello git! master
 hello baozhou!hello git! hot-fix
 11111111111111111111111
+22222222222222222222222 by clone
